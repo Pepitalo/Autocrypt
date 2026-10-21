@@ -235,6 +235,6 @@ Test programs live in `tests/` (AES, GIFT, PRESENT, tools, linear, differential 
 
 ---
 
-## Authors and licence
+## Authors
 
-<!-- TODO: add the authors and the licence of the repository. -->
+Antonio Matta, Maria Mikael, Sacha Carlier, Arthur Schifano.
