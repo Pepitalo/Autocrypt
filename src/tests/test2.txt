@@ -1,0 +1,8 @@
+Differential Attack on GIFT-64 : number of round user = 7 , number of path = 1 , threshold = 64
+Try : 1 | Input : 0000000000000007 -> Output : 0002010000080000 | Probability = 5.684341886080801e-13 | Passed the threshold : True | Exec time = 3.0472447872161865s
+Try : 2 | Input : 0000000000000007 -> Output : 0200000108000000 | Probability = 5.684341886080801e-13 | Passed the threshold : True | Exec time = 3.024801015853882s
+Try : 3 | Input : 0000000000000007 -> Output : 0000010100000000 | Error | Exec time = 2.964547634124756s
+Try : 4 | Input : 0000000000000007 -> Output : 0202000008080000 | Probability = 2.8421709430404007e-13 | Passed the threshold : True | Exec time = 3.0713188648223877s
+Try : 5 | Input : 0000000000000007 -> Output : 0000010100080000 | Probability = 5.684341886080801e-13 | Passed the threshold : True | Exec time = 3.0237808227539062s
+
+Full run time : 20.27865767478943s
